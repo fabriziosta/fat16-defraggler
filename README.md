@@ -10,10 +10,3 @@ All project was created inside 3 .py files:
 - Disk.py > this file contains a class for my disk image and all his relative attributes and methods.
 
 - Defrag.py > this file contains a list of prints on console to show to the user all general informations about the loaded disk image. It wasn't requested by the project but I had fun to create it and receive a positive output from disk every time I did experiments with it.
-
-Fabrizio Asta
-
-210422
-
-
-Trapani Campus 
